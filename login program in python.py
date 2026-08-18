@@ -23,4 +23,4 @@ def login():
         print("Incorrrect password.")
 
 # Example usage
-login()
+login() # calling the defined function
